@@ -1,0 +1,420 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    /* background: url("images/plubackimage.webp"); */
+    /* background: repeating-linear-gradient(); */
+    
+}
+
+.d-flex .button-anchor  i{
+    right: 30px;
+}
+
+.contact-sales{
+    width: 200px;
+    background: rgb(60, 60, 95);
+    border: 3px solid rgb(99, 68, 128);
+}
+
+.contact-sales a{
+    color: #fff;
+    font-weight: 700;
+
+}
+
+
+.view-plan{
+    width: 160px;
+    background: crimson;
+    border: 1px solid rgb(46, 46, 103);
+}
+
+.view-plan a{
+    color: #fff;
+    font-weight: 800;
+}
+
+
+.search-icon1{
+    font-weight: 600;
+    font-size: 20px;
+    /* top: 20px; */
+}
+
+.container{
+    z-index: -1;
+    scroll-behavior: smooth;
+    width: 80%;
+    min-height: 100vh;
+    background-color: rgb(39, 39, 47);
+    opacity: 0.9;
+    margin-top: 5%;
+
+}
+
+.button-section button{
+    background: crimson;
+}
+
+.button-section .buttons-default{
+    background: transparent;
+}
+
+.fevicon-icon .logo img{
+    border-radius: 8px;
+    margin-top: 10px;
+    /* margin-right: 10px; */
+
+}
+
+.heading-skills h1{
+    font-weight: 900;
+
+}
+
+.back-hero{
+    margin-top: 6%;
+    
+
+}
+
+.img-group img{
+    width: 200px;
+    height: 150px;
+    /* padding: 15px; */
+    /* justify-content: center; */
+}
+
+.column-one{
+    margin-top: 100px;
+    padding: 100px;
+
+}
+
+.solution-btn{
+    background: crimson;
+}
+
+.solution-btn a{
+    font-weight: 700;
+}
+
+.tour-solun{
+    background: crimson;
+}
+
+.tour-solun a{
+    font-weight: 700;
+}
+
+.frame-outer .head{
+    margin-right: 300px;
+    font-weight: 800;
+}
+
+
+.paragraph-sec{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.skill-logo img{
+    margin-top: 40px;
+}
+
+
+.take-a-tour{
+    color: crimson;
+    font-weight: 700;
+    text-decoration: none;
+
+}
+
+.view-plans{
+    color: crimson;
+    font-weight: 700;
+    text-decoration: none;
+
+}
+
+.row-hight-top{
+    margin-top: 30%;
+}
+
+
+/* USING CONTAINER C */
+.frame-icon .row{
+    display: flex;
+    align-items: center;
+
+}
+
+.view-all-skills a{
+    color: crimson;
+    font-weight: 700;
+    font-size: 40px;
+    text-decoration: none;
+
+}
+/* USING CONTAINER C */
+
+
+/* USING CONTAINER D */
+.cloud-logo-fevi img{
+    width: 80px;
+    height: 80px;
+}
+
+.charge-fevi img{
+    width: 80px;
+    height: 75px;
+}
+
+.img-frame img{
+    width: 430px;
+    height: 430px;
+    /* box-shadow: 12px,12px,12px orangered; */
+    margin-bottom: 10px;
+    opacity: 0.7;
+}
+
+
+.our-solutions{
+    margin-left: 10%;
+    padding-top: 10%;
+}
+
+.cloud-transf{
+    margin-left: 10%;
+    padding-top: 5%;
+}
+
+.accordian-frame{
+    width: 80%;
+    margin-left: 10%;
+}
+
+/* USING CONTAINER D */
+
+
+/* USING CONTAINER E */
+
+.three-div-frame{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.corn-circulate{
+    border-radius: 15px;
+}
+
+/* USING CONTAINER E End */
+
+
+
+/* USING CONTAINER H End */
+.footer-bootom-layout{
+    width: 100%;
+    height: auto;
+    padding-bottom: 20px;
+    
+    
+    background-color: rgb(69, 69, 117);
+    /* background-color: aquamarine; */
+}
+/* 
+.div-horizon-line{
+    width: 90%;
+    height: 5px;
+    background-color: 3px solid blue;
+
+} */
+/* USING CONTAINER H End */
+
+
+
+
+/* skills webpage started here */
+.back-img img{
+    margin-top: 13%;
+    width: 100%;
+    height: 500px;
+    border-radius: 20px;
+    /* background-image: linear-gradient(red,darkblue); */
+}
+
+
+/* skills webpage started here */
+
+
+.for-linear{
+    background-image: linear-gradient(rgb(24, 24, 54),purple);
+}
+
+.fujitsu-logo img{
+    width: 100px;
+    height: 80px;
+
+}
+
+.nasdaq-logo img{
+    width: 100px;
+    height: 80px;
+    /* margin-left: 5%; */
+
+}
+
+.bt-logo img{
+    width: 100px;
+    height: 80px;
+
+}
+
+.vmware-logo img{
+    width: 100px;
+    height: 80px;
+
+}
+
+.anz-logo img{
+    width: 100px;
+    height: 80px;
+
+}
+
+.cerner-logo img{
+    width: 100px;
+    height: 80px;
+
+}
+
+
+
+.frame{
+    width: 90%;
+    height: auto;
+    /* background-color: blueviolet; */
+    margin-left: 8%;
+    margin-right: 10%;
+}
+
+.browse-couses .btn{
+    width: 200px;
+    height: 40px;
+    border-color: blue;
+    background-color: crimson;
+}
+
+.browse1-couses .btn{
+    width: 200px;
+    height: 40px;
+    border-color: blue;
+    background-color: #fff;
+}
+.img-outer-frame{
+    
+}
+.img-outer-frame img{
+    width: 100%;
+    height: 70vh;
+    margin-left: 13%;
+}
+
+/* skills webpage end here */
+
+
+
+
+/* A CLOUD GURU section start here.... */
+.main-box{
+    border-radius: 25px;
+}
+
+.anchor-content a{
+    color: crimson;
+    text-decoration: none;
+    font-weight: 700;
+}
+/* A CLOUD GURU section end here.... */
+
+
+
+/* USING FLOW WEB PAGE START HERE */
+.zontai-outer-layer{
+    width: 100%;
+    height: 100vh;
+    margin-top: 10%;
+}
+
+.left-side-button button{
+    width: 170px;
+    height: 50px;
+    background-color: crimson;
+    border-radius: 25px;
+}
+
+.left-side-button button a{
+    text-decoration: none;
+    font-weight: 800;
+    color: #fff;
+}
+
+
+
+
+.right-side-button button{
+    width: 170px;
+    height: 50px;
+    background-color: transparent;
+    border-radius: 25px;
+    background-color: transparent;
+    border: 0.5px solid #fff;
+}
+
+
+.right-side-button button a{
+    text-decoration: none;
+    font-weight: 800;
+    color: #fff;
+
+}
+
+.anchor-btns{
+    width: 250px;
+    height: 50px;
+    background-color: lightslategray;
+    border-radius: 25px;
+    outline: #fff;
+}
+
+.anchor-btns a{
+    color: black;
+    text-decoration: none;
+    font-weight: 600;
+    text-align: center;
+}
+
+
+.outer-envolope{
+    width: 80%;
+    height: auto;
+    margin-left: 10%;
+}
+
+.outer-envolope-second{
+    width: 100%;
+    height: auto;
+}
+
+
+
+
+
+
+/* USING FLOW WEB PAGE END HERE */
+
+
